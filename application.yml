@@ -1,5 +1,3 @@
-info:
-  description: OSCON 2015
 
 endpoints:
   restart:
