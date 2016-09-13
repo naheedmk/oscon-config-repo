@@ -1,5 +1,5 @@
 encrypted.value: '{cipher}a48d0aadb3725e66af39022bb7cf17eeb28605989181e5928d03da29017484eb'
-test.value: '{cipher}a48d0aadb3725e66af39022bb7cf17eeb28605989181e5928d03da29017484eb'
+test.value: '{cipher}4410d0b2b7498ec29954390c310e5628bcf48a47d8c830a25324585c95429012'
 endpoints:
   restart:
     enabled: true
